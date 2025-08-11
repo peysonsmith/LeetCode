@@ -28,8 +28,6 @@ class Solution {
             }
 
             maxVowels = Math.max(maxVowels, currVowels);
-
-            // rightP++;
         }
         
         return maxVowels;
