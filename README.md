@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/peysonsmith/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/peysonsmith/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/peysonsmith/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1833-find-the-highest-altitude](https://github.com/peysonsmith/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/peysonsmith/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/peysonsmith/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/peysonsmith/LeetCode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
