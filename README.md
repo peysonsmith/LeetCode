@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/peysonsmith/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/peysonsmith/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/peysonsmith/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
@@ -51,8 +52,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/peysonsmith/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/peysonsmith/LeetCode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/peysonsmith/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/peysonsmith/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
