@@ -13,16 +13,8 @@ class Solution(object):
         TMap = {}
 
         for i in range(len(s)):
-            if s[i] in SMap:
-                SMap[s[i]] += 1
-            else:
-                SMap[s[i]] = 1
-
-        for i in range(len(t)):
-            if t[i] in TMap:
-                TMap[t[i]] += 1
-            else:
-                TMap[t[i]] = 1
+            SMap[s[i]] = 1 + SMap.get(s[i], 0)
+            TMap[t[i]] = 1 + TMap.get(t[i], 0)
 
         for key in SMap:
             if key not in TMap:
