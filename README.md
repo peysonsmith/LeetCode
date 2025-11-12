@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/peysonsmith/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/peysonsmith/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/peysonsmith/LeetCode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/peysonsmith/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/peysonsmith/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/peysonsmith/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/peysonsmith/LeetCode/tree/master/0724-find-pivot-index) |
@@ -57,9 +58,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/peysonsmith/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/peysonsmith/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/peysonsmith/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/peysonsmith/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/peysonsmith/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/peysonsmith/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/peysonsmith/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/peysonsmith/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/peysonsmith/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/peysonsmith/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/peysonsmith/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/peysonsmith/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
