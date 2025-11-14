@@ -5,20 +5,19 @@ class Solution(object):
         :rtype: bool
         """
         
-        # Convert string to lowercase
-        lowerS = ""
-        for i in range(len(s)):
-            if s[i].isalnum():
-                lowerS += s[i].lower()
+        leftP = 0
+        rightP = len(s) - 1
 
-        frontP = 0
-        backP = len(lowerS) - 1
-
-        for i in range(len(lowerS) // 2):
-            if lowerS[frontP] != lowerS[backP]:
+        while leftP < rightP:
+            while leftP < rightP and not s[leftP].isalnum():
+                leftP += 1
+            while leftP < rightP and not s[rightP].isalnum():
+                rightP -= 1
+            if s[leftP].lower() != s[rightP].lower():
                 return False
-            else:
-                frontP += 1
-                backP -= 1
+            leftP += 1
+            rightP -= 1
 
         return True
+
+                
