@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/peysonsmith/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/peysonsmith/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/peysonsmith/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/peysonsmith/LeetCode/tree/master/0242-valid-anagram) |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/peysonsmith/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/peysonsmith/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
