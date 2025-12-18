@@ -7,20 +7,14 @@ class Solution(object):
         """
         hi = len(nums) - 1
         lo = 0
-        if nums[hi] == target:
-            return hi
-        if nums[lo] == target:
-            return lo
 
-        mid = (hi - lo) / 2
-
-        while mid < hi and mid > lo:
+        while lo <= hi:
+            mid = (lo + hi) // 2
             if nums[mid] == target:
                 return mid
             elif nums[mid] < target:
-                lo = mid
+                lo = mid + 1
             elif nums[mid] > target:
-                hi = mid
-            mid = lo + (hi - lo) / 2
+                hi = mid - 1
 
         return -1
