@@ -17,7 +17,7 @@ class Solution:
 
             # Find total hours using mid k
             for b in piles:
-                hours += math.ceil(float(b) / mid)
+                hours += math.ceil(b / mid)
 
             if hours <= h:
                 k = mid
