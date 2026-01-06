@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/peysonsmith/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/peysonsmith/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/peysonsmith/LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/peysonsmith/LeetCode/tree/master/0070-climbing-stairs) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/peysonsmith/LeetCode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/peysonsmith/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Design
 |  |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/peysonsmith/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/peysonsmith/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
