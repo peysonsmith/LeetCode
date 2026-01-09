@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/peysonsmith/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/peysonsmith/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/peysonsmith/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/peysonsmith/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/peysonsmith/LeetCode/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/peysonsmith/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
