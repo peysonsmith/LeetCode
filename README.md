@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/peysonsmith/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/peysonsmith/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1390-four-divisors](https://github.com/peysonsmith/LeetCode/tree/master/1390-four-divisors) |
+| [1480-running-sum-of-1d-array](https://github.com/peysonsmith/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/peysonsmith/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/peysonsmith/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/peysonsmith/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/peysonsmith/LeetCode/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/peysonsmith/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/peysonsmith/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
