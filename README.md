@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/peysonsmith/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/peysonsmith/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/peysonsmith/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/peysonsmith/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/peysonsmith/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/peysonsmith/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/peysonsmith/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/peysonsmith/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/peysonsmith/LeetCode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/peysonsmith/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/peysonsmith/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/peysonsmith/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/peysonsmith/LeetCode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/peysonsmith/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/peysonsmith/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/peysonsmith/LeetCode/tree/master/0347-top-k-frequent-elements) |
